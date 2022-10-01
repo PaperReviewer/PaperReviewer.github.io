@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: PaperReview                          # the main title
 
-tagline: 一个分享Review论文的学习平台   # it will display as the sub-title
+tagline: 一个Review论文的学习平台   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   教你如何Review论文
@@ -40,12 +40,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: 怼怼
+  email: paperreviewer@sina.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/PaperReviewer       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
