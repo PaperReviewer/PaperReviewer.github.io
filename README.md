@@ -13,9 +13,9 @@
 <img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />微信: [@duidui]()
 <img src="https://s3.bmp.ovh/imgs/2022/10/01/45453eef71d2016b.png" alt="知乎"  width="18px" height="18px" />知乎: [@PaperReview](https://www.zhihu.com/people/zanbo-93-22)
 
-## 🐋PaperReview在线网站
+## 🐋在线学习如何Review和Rebuttal
 
-[https://paperreviewer.github.io/](https://paperreviewer.github.io/)
+[点击我进入PaperReview（网页版）](https://paperreviewer.github.io/)
 
 
 ## 🌈怼怼寄语
