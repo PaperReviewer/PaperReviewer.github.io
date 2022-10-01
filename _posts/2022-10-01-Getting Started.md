@@ -9,7 +9,7 @@ pin: true
 
 ---
 
-## ❤PaperReview: 一个分享论文Reviews的社区
+## ❤️PaperReview: 一个分享论文Reviews的社区
 <img src="https://s3.bmp.ovh/imgs/2022/09/30/ba20907fb6c0f184.png" alt="GitHub"  width="18px" height="18px" />GitHub: [@PaperReviewer](https://github.com/PaperReviewer/PaperReviewer.github.io)
 
 <img src="https://s3.bmp.ovh/imgs/2022/09/30/a406c07d4b5b1c72.png" alt="微信公众号"  width="18px" height="18px" />微信公众号: [@PaperReview](https://s3.bmp.ovh/imgs/2022/10/01/c610ee8b260ec88c.jpeg)
