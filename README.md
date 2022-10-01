@@ -1,34 +1,46 @@
-# PaperReview: 一个分享论文Reviews的社区
+# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
----
+When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
 
-## ✨社区愿景
+The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-希望朋友们能够通过PaperReview社区学习到如何Review和Rebuttal，进一步提升自己的科研能力，从而能够多产出高质量高水平的Paper。
+To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
 
-## ❤欢迎关注
+```shell
+.
+├── _config.yml
+├── _data
+├── _plugins
+├── _tabs
+└── index.html
+```
 
-<img src="https://s3.bmp.ovh/imgs/2022/09/30/ba20907fb6c0f184.png" alt="GitHub"  width="18px" height="18px" />GitHub: [@PaperReviewer](https://github.com/PaperReviewer/PaperReviewer.github.io)
-<img src="https://s3.bmp.ovh/imgs/2022/09/30/a406c07d4b5b1c72.png" alt="微信公众号"  width="18px" height="18px" />微信公众号: [@PaperReview](https://s3.bmp.ovh/imgs/2022/10/01/c610ee8b260ec88c.jpeg)
-<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />微信: [@duidui]()
-<img src="https://s3.bmp.ovh/imgs/2022/10/01/45453eef71d2016b.png" alt="知乎"  width="18px" height="18px" />知乎: [@PaperReview](https://www.zhihu.com/people/zanbo-93-22)
+In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
 
-## 🐋PaperReview在线网站
+## Prerequisites
 
-[https://paperreviewer.github.io/](https://paperreviewer.github.io/)
+Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
 
+## Installation
 
-## 🌈怼怼寄语
+[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
 
-想中（水）顶会，先要学会Review（怼）顶会。
-
-## 👉引用
+Then clone it to your local machine and run:
 
 ```
-@inproceedings{Duidui,
-  title={PaperReview},
-  author={经历过无数次拒稿但依然心怀希望的科研工作者。},
-  booktitle={PaperReview},
-  year={2022}
-}
+$ bundle
 ```
+
+## Usage
+
+Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+
+## License
+
+This work is published under [MIT][mit] License.
+
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+[use-template]: https://github.com/cotes2020/chirpy-starter/generate
+[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
