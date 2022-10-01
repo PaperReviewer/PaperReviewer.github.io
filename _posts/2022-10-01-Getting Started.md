@@ -1,6 +1,6 @@
 ---
 title: 新手指南
-author: 怼怼
+author: duidui
 date: 2022-10-01 22:09:00 +0800
 categories: [新手指南]
 tags: [新手指南]
