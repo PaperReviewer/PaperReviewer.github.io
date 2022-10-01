@@ -23,7 +23,7 @@ timezone: Asia/Shanghai
 
 title: PaperReview                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 一个分享如何Review论文的学习平台   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   教你如何Review论文
