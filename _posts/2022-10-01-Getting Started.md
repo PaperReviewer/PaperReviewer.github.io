@@ -37,9 +37,9 @@ pin: true
 ## 👉引用
 
 ```
-@inproceedings{Duidui,
+@inproceedings{怼怼,
   title={PaperReview},
-  author={经历过无数次拒稿但依然心怀希望的科研工作者。},
+  author={经历过无数次拒稿但依然心怀希望的科研工作者},
   booktitle={PaperReview},
   year={2022}
 }
