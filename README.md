@@ -18,14 +18,12 @@
 ## ❤欢迎关注
 
 <img src="https://s3.bmp.ovh/imgs/2022/09/30/ba20907fb6c0f184.png" alt="GitHub"  width="18px" height="18px" />GitHub: [@PaperReviewer](https://github.com/PaperReviewer/PaperReviewer.github.io)
-<img src="https://s3.bmp.ovh/imgs/2022/09/30/a406c07d4b5b1c72.png" alt="微信公众号"  width="18px" height="18px" />微信公众号: @PaperReview (下方第一个)
-<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />微信: @怼怼 (下方第二个)
-<img src="https://s3.bmp.ovh/imgs/2022/10/01/45453eef71d2016b.png" alt="知乎"  width="18px" height="18px" />知乎: [@PaperReview](https://www.zhihu.com/people/zanbo-93-22)
 
-<figure>
-    <img src=assets/PaperReview.jpeg width=100 />
-    <img src=assets/WechatIMG943.jpeg width=110 />
-</figure>
+<img src="https://s3.bmp.ovh/imgs/2022/09/30/a406c07d4b5b1c72.png" alt="微信公众号"  width="18px" height="18px" />微信公众号: [@PaperReview](https://raw.githubusercontent.com/PaperReviewer/PaperReviewer.github.io/main/assets/PaperReview.jpeg)
+
+<img src="https://tva1.sinaimg.cn/large/008i3skNly1gxlhtmg11mj305k05k746.jpg" alt="微信"  width="18px" height="18px" />微信: [@怼怼](https://raw.githubusercontent.com/PaperReviewer/PaperReviewer.github.io/main/assets/WechatIMG943.jpeg)
+
+<img src="https://s3.bmp.ovh/imgs/2022/10/01/45453eef71d2016b.png" alt="知乎"  width="18px" height="18px" />知乎: [@PaperReview](https://www.zhihu.com/people/zanbo-93-22)
 
 ## 👉引用
 
