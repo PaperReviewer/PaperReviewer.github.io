@@ -23,8 +23,8 @@
 <img src="https://s3.bmp.ovh/imgs/2022/10/01/45453eef71d2016b.png" alt="知乎"  width="18px" height="18px" />知乎: [@PaperReview](https://www.zhihu.com/people/zanbo-93-22)
 
 <figure>
-    <img src=https://s3.bmp.ovh/imgs/2022/10/04/c610ee8b260ec88c.jpeg width=100 />
-    <img src=https://s3.bmp.ovh/imgs/2022/10/04/74b663158a79bbd5.jpeg width=110 />
+    <img src=assets/PaperReview.jpeg width=100 />
+    <img src=assets/WechatIMG943.jpeg width=110 />
 </figure>
 
 ## 👉引用
