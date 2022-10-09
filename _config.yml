@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://s3.bmp.ovh/imgs/2022/10/01/159b1ecadf6c31b7.png
+avatar: https://raw.githubusercontent.com/PaperReviewer/PaperReviewer.github.io/main/assets/icon.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
